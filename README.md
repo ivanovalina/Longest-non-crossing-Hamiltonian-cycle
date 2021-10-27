@@ -1,1 +1,2 @@
-# Projekt-Finan-ni-praktikum
+# Project FP - Longest non-crossing Hamiltonian cycle
+
